@@ -18,7 +18,16 @@ stemming
 
 classification
 
+Further Reading
+---------------
 
+inflection
+
+n-grams
+
+Term Frequency–Inverse Document Frequency (TF-IDF)
+
+WordNet
 
 node-sylvester
 ==============
@@ -39,3 +48,10 @@ basic math
 advanced operations/decompositions
 
 systems of linear equations
+
+Further Reading
+---------------
+
+more math
+
+lapack integration (node-lapack)
